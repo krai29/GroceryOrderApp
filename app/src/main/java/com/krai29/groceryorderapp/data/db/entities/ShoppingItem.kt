@@ -1,4 +1,4 @@
-package com.krai29.groceryorderapp
+package com.krai29.groceryorderapp.data.db
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

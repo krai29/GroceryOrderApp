@@ -1,7 +1,8 @@
-package com.krai29.groceryorderapp
+package com.krai29.groceryorderapp.data
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
+import com.krai29.groceryorderapp.data.db.ShoppingItem
 
 @Dao
 interface ShoppingDao {
