@@ -15,8 +15,4 @@ interface ShoppingDao {
 
     @Query("SELECT * FROM shopping_items")
     fun getAllShoppingItems():LiveData<List<ShoppingItem>>
-
-
-
-
 }
